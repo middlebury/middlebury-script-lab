@@ -1,0 +1,14 @@
+{
+  "search.exclude": {
+    "_site": true,
+    "node_modules": true,
+    "*.log": true,
+    ".sass-cache": true
+  },
+  "files.exclude": {
+    "_site": true,
+    "node_modules": true,
+    "*.log": true,
+    ".sass-cache": true
+  }
+}

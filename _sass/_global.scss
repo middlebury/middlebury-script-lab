@@ -1,0 +1,45 @@
+* {
+  &,
+  &:before,
+  &:after {
+    box-sizing: border-box;
+  }
+}
+
+body {
+  font-size: 1rem;
+  font-family: Courier New, Courier, monospace;
+  background-color: $white;
+  margin: 0;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+p {
+  font-size: 18px;
+  line-height: 24px;
+  margin-bottom: 1.5rem;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-size: 1rem;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 1.2px;
+  margin: 0;
+}
+
+h1 {
+  font-size: 21px;
+  text-transform: uppercase;
+  letter-spacing: 1.5px;
+  line-height: 26px;
+}
