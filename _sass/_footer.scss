@@ -10,17 +10,18 @@
 }
 
 .footer-row {
-  @include media(md) {
-    display: flex;
-  }
+  @include clearfix();
 }
 
 .footer-info {
   @include media(md) {
+    float: left;
     margin-right: 160px;
   }
 }
 
 .footer-social {
-
+  @include media(md) {
+    float: left;
+  }
 }

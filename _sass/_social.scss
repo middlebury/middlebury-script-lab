@@ -1,7 +1,9 @@
 .social {
-  display: flex;
+  @include clearfix();
 
   li {
+    float: left;
+
     &:not(:last-of-type) {
       margin-right: 1.5rem;
     }
