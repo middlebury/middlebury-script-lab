@@ -6,3 +6,6 @@ description: >
 baseurl: ""
 
 markdown: kramdown
+
+sass:
+  style: compressed
