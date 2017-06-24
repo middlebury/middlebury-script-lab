@@ -1,12 +1,28 @@
 <footer class="site-footer">
   <div class="container">
+    <div class="footer-row">
 
-    <p><strong>Center for Creativity, Innovation,<br>
-      and Social Entrepreneurship</strong><br>
-      <br>
-      118 South Main Street<br>
-      Middlebury, VT 05753
-    </p>
+      <div class="footer-info">
+        <p><strong>Center for Creativity, Innovation,<br>
+          and Social Entrepreneurship</strong><br>
+          <br>
+          118 South Main Street<br>
+          Middlebury, VT 05753
+        </p>
+      </div>
 
+      <div class="footer-social">
+        <ul class="social">
+          {% for item in site.data.social %}
+            <li>
+              <a href="{{item.url}}">
+                <img src="/img/{{item.image}}" alt="{{item.title}}">
+              </a>
+            </li>
+          {% endfor %}
+        </ul>
+      </div>
+
+    </div>
   </div>
 </footer>

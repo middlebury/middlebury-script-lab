@@ -8,3 +8,19 @@
     line-height: 21px;
   }
 }
+
+.footer-row {
+  @include media(md) {
+    display: flex;
+  }
+}
+
+.footer-info {
+  @include media(md) {
+    margin-right: 160px;
+  }
+}
+
+.footer-social {
+
+}

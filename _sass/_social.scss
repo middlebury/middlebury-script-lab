@@ -1,0 +1,9 @@
+.social {
+  display: flex;
+
+  li {
+    &:not(:last-of-type) {
+      margin-right: 1.5rem;
+    }
+  }
+}
