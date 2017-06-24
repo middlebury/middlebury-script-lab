@@ -2,16 +2,16 @@
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
 
-@import "variables";
-@import "mixins";
+@import 'variables';
+@import 'mixins';
 
-@import "global";
+@import 'global';
 
-// @import "layout";
-@import "header";
-@import "nav";
-@import "footer";
-@import "button";
+// @import 'layout';
+@import 'header';
+@import 'nav';
+@import 'footer';
+@import 'button';
 
 .container {
   max-width: 700px;
