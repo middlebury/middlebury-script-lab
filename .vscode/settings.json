@@ -6,7 +6,7 @@
     ".sass-cache": true
   },
   "files.exclude": {
-    "_site": true,
+    "_site": false,
     "node_modules": true,
     "*.log": true,
     ".sass-cache": true

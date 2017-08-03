@@ -1,11 +1,26 @@
 title: Middlebury Screenwriters Workshop
-description: >
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+description: ""
 baseurl: ""
 
-markdown: kramdown
+apply_link: "#"
 
-sass:
-  style: compressed
+nav:
+- text: Overview
+  link: "#overview"
+  class: js-spy js-link
+- text: People
+  link: "#people"
+  class: js-spy js-link
+- text: Application
+  link: "#"
+- text: Contact
+  link: "#"
+
+markdown: kramdown
+exclude:
+  - node_modules
+  - package.json
+  - gulpfile.js
+  - yarn.lock
+  - README.md
+  - "*.log"
