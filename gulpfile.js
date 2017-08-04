@@ -103,6 +103,7 @@ gulp.task('watch', function() {
   gulp.watch('_img/**/*.{jpg,png,svg}', ['images']);
   gulp.watch(
     [
+      './index.{html,md}',
       './_layouts/*.html',
       './_includes/*.html',
       './**/*.md',
