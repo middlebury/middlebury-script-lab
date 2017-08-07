@@ -27,7 +27,11 @@
 }
 
 .section {
-  margin-bottom: 120px;
+  margin-bottom: 88px;
+
+  &:last-of-type {
+    margin-bottom: 120px;
+  }
 
   p {
     margin-bottom: 24px;
@@ -56,6 +60,7 @@
   font-weight: bold;
   text-align: center;
   margin-bottom: 32px;
+  padding-top: 32px;
 }
 
 .section-figure {
@@ -99,6 +104,17 @@
 .section-action {
   margin-top: 72px;
   text-align: center;
+
+  &.headroom {
+
+  }
+
+  &.headroom--not-top {
+    width: 100%;
+    position: fixed;
+    top: 137px;
+    left: 0;
+  }
 }
 
 .person {

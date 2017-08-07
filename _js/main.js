@@ -2,46 +2,47 @@ import scrollTo from 'scroll-to';
 import Headroom from 'headroom.js';
 import onscrolling from 'onscrolling';
 
-// import getOuterHeight from './getOuterHeight';
-
 const $ = selector => document.querySelector(selector);
 const $$ = selector => document.querySelectorAll(selector);
 const addClass = (elem, className) => elem.classList.add(className);
 const removeClass = (elem, className) => elem.classList.remove(className);
 const forEach = (items, cb) => [].forEach.call(items, cb);
 
-const header = $('.js-headroom');
+const getHeader = () => $('.js-nav');
+
+const header = getHeader();
 const siteBrand = $('.js-site-brand');
 const headerAppBtn = $('.js-header-app-btn');
-const appBtn = $('.js-app-btn');
 
 const sectionLinks = $$('.js-link');
 
 const sections = {};
+const isBtnStuck = false;
 
 // sets the padding top of the body element
-const setBodyTopPad = x => (document.body.paddingTop = x + 'px');
+const setBodyTopPad = x => (document.body.style.paddingTop = x + 'px');
 
-const getHeaderHeight = () => $('.js-headroom').offsetHeight;
+const getHeaderHeight = () => getHeader().offsetHeight;
 
 const getScrollTop = () =>
   document.documentElement.scrollTop || document.body.scrollTop;
 
-function offsetBody() {
-  const header = $('.js-headroom');
+const isMediaMin = width =>
+  window.matchMedia(`(min-width: ${width}px)`).matches;
+
+function padBody() {
   const x = getHeaderHeight();
   setBodyTopPad(x);
 }
 
 function initStickyHeader() {
-  const siteBrandHeight = siteBrand.clientHeight;
-  const headerHeight = getHeaderHeight();
+  const siteBrandHeight = siteBrand.offsetHeight;
 
   // set up sticky header
   const headroom = new Headroom(header, {
     offset: siteBrandHeight,
     onNotTop() {
-      setBodyTopPad(headerHeight);
+      padBody();
     },
     onTop() {
       setBodyTopPad(0);
@@ -52,11 +53,11 @@ function initStickyHeader() {
 }
 
 function setSectionOffsets() {
-  const sections = $$('.section');
+  const sectionElems = $$('.section');
   const headroom = $('.js-headroom');
   const headerHeight = getHeaderHeight();
 
-  forEach(sections, elem => {
+  forEach(sectionElems, elem => {
     sections[elem.id] = elem.offsetTop - headerHeight;
   });
 }
@@ -80,25 +81,6 @@ function updateSections() {
   }
 }
 
-// shows the header apply button when the one in the body is scrolled by
-function moveAppBtn(e) {
-  const scrollPosition = getScrollTop();
-
-  if (appBtn.offsetTop + appBtn.clientHeight <= scrollPosition) {
-    addClass(headerAppBtn, 'is-visible');
-
-    setSectionOffsets();
-
-    const headerHeight = getHeaderHeight();
-
-    setBodyTopPad(headerHeight);
-
-    return;
-  }
-
-  removeClass(headerAppBtn, 'is-visible');
-}
-
 // scroll to the top of the target section minus the sticky header height
 function handleSectionLinkClick(e) {
   e.preventDefault();
@@ -106,7 +88,7 @@ function handleSectionLinkClick(e) {
   const href = e.target.getAttribute('href');
   const target = $(href);
 
-  const y = target.offsetTop - getHeaderHeight() - 16;
+  const y = target.offsetTop - getHeaderHeight();
 
   const options = {
     ease: 'linear',
@@ -124,17 +106,38 @@ function addSectionLinkListeners() {
 
 function handleScroll() {
   updateSections();
-  moveAppBtn();
+}
+
+function initAppBtn() {
+  const btn = $('.js-app-btn');
+  const headerBtn = $('.js-header-app-btn');
+  const headerHeight = getHeaderHeight();
+
+  const hrBtn = new Headroom(btn, {
+    offset: btn.offsetTop - headerHeight,
+    onNotTop() {
+      addClass(headerBtn, 'is-visible');
+      setSectionOffsets();
+      // padBody();
+    },
+    onTop() {
+      removeClass(headerBtn, 'is-visible');
+      // padBody();
+    }
+  });
+
+  hrBtn.init();
 }
 
 function main() {
-  setSectionOffsets();
-
   initStickyHeader();
 
-  addSectionLinkListeners();
-
-  onscrolling(handleScroll);
+  if (isMediaMin(600)) {
+    setSectionOffsets();
+    initAppBtn();
+    addSectionLinkListeners();
+    onscrolling(handleScroll);
+  }
 }
 
 main();

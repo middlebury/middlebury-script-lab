@@ -50,7 +50,7 @@ gulp.task('scripts', function() {
   var b = browserify({
     entries: './_js/main.js',
     debug: true,
-    transform: [[babelify, {presets: ['es2015']}]]
+    transform: [[babelify, { presets: ['es2015'] }]]
   });
 
   return b
@@ -62,8 +62,8 @@ gulp.task('scripts', function() {
     })
     .pipe(source('bundle.js'))
     .pipe(buffer())
-    .pipe(gulpIf(!production, sourcemaps.init({loadMaps: true})))
-    .pipe(uglify())
+    .pipe(gulpIf(!production, sourcemaps.init({ loadMaps: true })))
+    .pipe(gulpIf(production, uglify()))
     .on('error', gutil.log)
     .pipe(gulpIf(!production, sourcemaps.write('./')))
     .pipe(gulp.dest('./_site/js'))
@@ -79,19 +79,24 @@ gulp.task('images', function() {
 gulp.task('styles', function() {
   return gulp
     .src('./_scss/main.scss')
-    .pipe(gulpIf(!production, sourcemaps.init({
-      loadMaps: true
-    })))
+    .pipe(
+      gulpIf(
+        !production,
+        sourcemaps.init({
+          loadMaps: true
+        })
+      )
+    )
     .pipe(
       sass({
         onError: browserSync.notify
       })
     )
     .on('error', sass.logError)
-    .pipe(autoprefixer(['last 3 versions', '> 2%', 'ie 10'], {cascade: true}))
+    .pipe(autoprefixer(['last 3 versions', '> 2%', 'ie 10'], { cascade: true }))
     .pipe(gulpIf(!production, sourcemaps.write('./')))
     .pipe(gulpIf(production, cmq()))
-    .pipe(gulpIf(production, cssnano({zIndex: false})))
+    .pipe(gulpIf(production, cssnano({ zIndex: false })))
     .pipe(gulp.dest('_site/css'))
     .pipe(browserSync.stream())
     .pipe(gulp.dest('./css'));

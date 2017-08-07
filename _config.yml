@@ -7,10 +7,10 @@ apply_link: "#"
 nav:
 - text: Overview
   link: "#overview"
-  class: js-spy js-link
+  class: js-link
 - text: People
   link: "#people"
-  class: js-spy js-link
+  class: js-link
 - text: Application
   link: "#"
 - text: Contact
