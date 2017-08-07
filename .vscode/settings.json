@@ -10,5 +10,8 @@
     "node_modules": true,
     "*.log": true,
     ".sass-cache": true
+  },
+  "[javascript]": {
+    "editor.formatOnSave": true
   }
 }
