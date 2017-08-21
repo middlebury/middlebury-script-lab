@@ -12,7 +12,7 @@ nav:
   link: "#people"
   class: js-link
 - text: Application
-  link: "#"
+  link: "#application"
 - text: Contact
   link: "#"
 
