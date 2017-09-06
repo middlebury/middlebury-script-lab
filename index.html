@@ -2,85 +2,42 @@
 layout: default
 ---
 
-<section class="section" id="home">
-  <h1 class="section-title sr-only">Home</h1>
+{% assign sections = site.sections | sort: 'order' %}
+{% for section in sections %}
 
-  <figure class="section-figure">
-    <img src="img/breadloaf.jpg" alt="Breadloaf campus">
-  </figure>
+  <section class="section" id="{{section.slug}}">
+    <h1 class="section-title{% if section.hide_title %} sr-only{% endif %}">{{section.title}}</h1>
 
-  <h2>Seeking fresh talent</h2>
+    {% if section.image %}
+      <figure class="section-figure">
+        <img src="img/{{section.image}}" srcset="{% for srcset in section.image_srcset %}img/{{srcset}}{% endfor %}" alt="{{section.image_alt}}">
+      </figure>
+    {% endif %}
 
-  <p>The Middlebury Screenwriters Workshop is looking to mentor and support the next generation. Our tuition-free program provides emerging screenwriters a place to focus intensely on their craft under the guidance of accomplished faculty and industry professionals.</p>
+    {{section.content || markdownify}}
 
-  <h3>When</h3>
-  <p>January 2018</p>
+    {% if section.people %}
+      {% for person in section.people %}
+        <article class="person">
+          {% if person.image %}
+            <figure class="person-figure section-figure">
+              <img src="img/{{person.image.src}}" srcset="{% for srcset in person.image.srcset %}img/{{srcset}}{% endfor %}" alt="{{person.name}}">
+            </figure>
+          {% endif %}
 
-  <h3>Where</h3>
-  <p>Middlebury College’s historic Bread Loaf campus in Vermont’s Green Mountains</p>
+          <h2 class="person-name">{{person.name}}</h3>
 
-  <div class="section-action">
-    <a href="{{site.apply_link}}" class="button js-app-btn">Apply now</a>
-  </div>
+          <p><em>{{person.title}}</em></p>
 
-</section>
+          <p>{{person.degree}}</p>
 
-<section class="section" id="overview">
-  <h1 class="section-title">Overview</h1>
+          {% if person.bio %}
+            {{person.bio | markdownify}}
+          {% endif %}
+        </article>
+      {% endfor %}
+    {% endif %}
 
-  <h2>Bring your story to life</h2>
+  </section>
 
-  <p>Six young screenwriters are invited to spend three weeks at Middlebury’s Bread Loaf campus in the Green Mountains of Vermont.</p>
-
-  <p>Work closely with Middlebury’s distinguished film and media faculty and selected alumni in successful careers writing for motion pictures and television—all free of charge. Middlebury College provides all travel, lodging, and meals.</p>
-
-  <h2>Send us your screenplay draft.</h2>
-
-  <p>We are looking for well-written, compelling screenplays with an independent spirit and scale, and an original premise or vision. Those who welcome feedback and discussion will benefit most from the program, as they further develop their work.</p>
-
-  <ul class="section-list">
-    <li>Intense workshopping</li>
-    <li>Public readings</li>
-    <li>Alumni in the industry</li>
-    <li>Networking opportunities</li>
-    <li>Highly selective</li>
-    <li>Free of charge </li>
-  </ul>
-</section>
-
-<section class="section" id="people">
-  <h1 class="section-title">People</h1>
-
-  <article class="person">
-    <figure class="person-figure section-figure">
-      <img src="//placehold.it/640x89" alt="">
-    </figure>
-
-    <h2 class="person-name">Ioana Uricaru</h3>
-
-    <p><em>Director and Middlebury College Professor</em></p>
-
-    <p>M.F.A in Film Production and Ph.D. in Critical Studies from the University of Southern California </p>
-
-    <p>Her short film Stopover (2010) was a 2011 Official Selection at the Sundance Film Festival. She also directed a segment of the omnibus film Tales from the Golden Age (2009), which premiered at the Cannes Film Festival. These and other short films of hers have been presented at festivals and special screenings worldwide. In 2012, she was a Fellow at the Sundance Screenwriting and Directing Labs, and in 2012 was a recipient of a Cinereach Fellowship. She is currently preparing to shoot her first feature film, Lemonade, which was a Cinelink coproduction market selection at the Sarajevo International Film Festival in 2014.</p>
-  </article>
-
-  <article class="person">
-    <figure class="person-figure section-figure">
-      <img src="//placehold.it/640x89" alt="">
-    </figure>
-
-    <h2 class="person-name">David Miranda Hardy</h2>
-
-    <p><em>Middlebury College Professor</em></p>
-
-    <p>B.A. from the University of Chile and an M.F.A. in Filmmaking from Temple University (as a Fulbright Scholar)</p>
-
-    <p>His short film Topo Gigio is Dead was screened at the Toulouse, Los Angeles, and Toronto Film Festivals, as well as dozens of other international festivals. Currently, he is writer/producer of Entero Quebrado (Broken), a 12-part series for Chilean television to be broadcast in 2016. Before his M.F.A., he worked as a sound designer on more than 60 feature films in South America.</p>
-  </article>
-</section>
-
-<section class="section" id="application">
-  <h1 class="section-title">Application</h1>
-  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Obcaecati at veniam quidem explicabo nam tenetur commodi dolorem voluptatem, vel, cum dicta excepturi odio sunt qui dolores. At, repudiandae placeat dignissimos.</p>
-</section>
+{% endfor %}

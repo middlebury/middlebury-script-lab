@@ -1,0 +1,10 @@
+- text: Overview
+  link: "#overview"
+  class: js-link
+- text: Organizers
+  link: "#organizers"
+  class: js-link
+- text: Application
+  link: "#application"
+- text: Contact
+  link: "#"
