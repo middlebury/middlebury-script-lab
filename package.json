@@ -3,7 +3,7 @@
     "start": "gulp",
     "build": "gulp build --production",
     "deploy": "npm run build && gulp deploy",
-    "deploy:sandcat": "gulp build && npm run copy:sandcat",
+    "deploy:sandcat": "npm run build && npm run copy:sandcat",
     "copy:sandcat": "cp -r _site/ /../../Volumes/middfiles/webroots/comm/midd-screenwriters"
   },
   "devDependencies": {
