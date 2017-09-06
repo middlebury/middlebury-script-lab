@@ -10,7 +10,11 @@ layout: default
 
     {% if section.image %}
       <figure class="section-figure">
-        <img src="img/{{section.image}}" srcset="{% for srcset in section.image_srcset %}img/{{srcset}}{% endfor %}" alt="{{section.image_alt}}">
+        <img
+          src="img/{{section.image.src}}"
+          srcset="{% for srcset in section.image.srcset %}img/{{srcset}}{% if forloop.last == false %}, {% endif %} {% endfor %}"
+          alt="{{section.image.alt}}"
+        />
       </figure>
     {% endif %}
 
@@ -21,7 +25,11 @@ layout: default
         <article class="person">
           {% if person.image %}
             <figure class="person-figure section-figure">
-              <img src="img/{{person.image.src}}" srcset="{% for srcset in person.image.srcset %}img/{{srcset}}{% endfor %}" alt="{{person.name}}">
+              <img
+                src="img/{{person.image.src}}"
+                srcset="{% for srcset in person.image.srcset %}img/{{srcset}}{% if forloop.last == false %}, {% endif %}{% endfor %}"
+                alt="{{person.name}}"
+              />
             </figure>
           {% endif %}
 
