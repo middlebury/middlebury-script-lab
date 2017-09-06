@@ -9,7 +9,8 @@
 
 .site-nav-list {
   @include media(md) {
-    display: inline-flex;
+    display: flex;
+    justify-content: space-between;
   }
 }
 
@@ -36,8 +37,6 @@
   @include media(md) {
     font-size: 18px;
     letter-spacing: 1.5px;
-    padding-left: 32px;
-    padding-right: 32px;
   }
 
   &.active {
