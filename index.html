@@ -37,7 +37,9 @@ layout: default
 
           <p><em>{{person.title}}</em></p>
 
-          <p>{{person.degree}}</p>
+          {% if person.degree %}
+            <p>{{person.degree}}</p>
+          {% endif %}
 
           {% if person.bio %}
             {{person.bio | markdownify}}
