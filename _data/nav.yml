@@ -6,5 +6,6 @@
   class: js-link
 - text: Application
   link: "#application"
+  class: js-link
 - text: Contact
   link: "#"
