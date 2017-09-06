@@ -2,11 +2,12 @@
 title: Home
 slug: home
 hide_title: true
-image_src: hp-middscreenwriters-1.jpg
-image_srcset:
-- hp-middscreenwriters-1.jpg 1x
-- img/hp-middscreenwriters-1@2x.jpg 2x
-image_alt: Bread Loaf
+image:
+  src: hp-middscreenwriters-1.jpg
+  srcset:
+  - hp-middscreenwriters-1.jpg 1x
+  - img/hp-middscreenwriters-1@2x.jpg 2x
+  alt: Bread Loaf
 order: 1
 ---
 
