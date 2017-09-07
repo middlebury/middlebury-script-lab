@@ -15,7 +15,11 @@ people:
 - name: David Miranda Hardy
   title: Middlebury College Professor
   degree: B.A. from the University of Chile and an M.F.A. in Filmmaking from Temple University (as a Fulbright Scholar)
-  bio: His short film Topo Gigio is Dead was screened at the Toulouse, Los Angeles, and Toronto Film Festivals, as well as dozens of other international festivals. Currently, he is writer/producer of Entero Quebrado (Broken), a 12-part series for Chilean television to be broadcast in 2016. Before his M.F.A., he worked as a sound designer on more than 60 feature films in South America.
+  bio: |
+    FMMC Assistant Professor David Miranda Hardy is a Chilean filmmaker and sound designer, with a MFA in Film from Temple University in Philadelphia, where he resided for 5 years with a Fulbright Scholarship. David has taught Sound for Film, Screewriting and Directing in Chile, Cuba (EICTV) and in the USA.
+
+    Professor Miranda Hardy is the head of the Contents Department at Filmosonido Chile, where he was the show-runner for Bala Loca (Stray Bullet, 2016), a 10-episode miniseries broadcast by Turner-owned Chilevision. The show was nominated for a Best Series at the Platino Awards 2017 and is now distributed by Netflix.
+  
   image:
     src: middscreenwriters-david.jpg
     srcset:
