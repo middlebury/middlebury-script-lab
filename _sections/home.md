@@ -13,7 +13,7 @@ order: 1
 
 ## Seeking fresh talent
 
-The Middlebury Screenwriters Workshop is looking to mentor and support the next generation of screenwriters. Our tuition-free program provides emerging screenwriters a place to focus intensely on their craft with the support of accomplished industry professionals.
+The Middlebury Script Lab is looking to mentor and support the next generation of screenwriters. Our tuition-free program provides emerging screenwriters a place to focus intensely on their craft with the support of accomplished industry professionals.
 
 ### When
 

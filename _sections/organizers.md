@@ -3,20 +3,22 @@ order: 3
 title: Organizers
 slug: organizers
 people:
-- name: Ionana Uricaru
+- name: Ioana Uricaru
   title: Director and Middlebury College Professor
   degree: M.F.A in Film Production and Ph.D. in Critical Studies from the University of Southern California 
-  bio: She directed the short film Stopover (2011 Official Selection, Sundance Film Festival) and co-directed the omnibus feature Tales from the Golden Age (2009, Official Selection at the Cannes Film Festival). Ioana was a Fellow at the Sundance Screenwriting and Directing Labs and a resident of the Cannes Cinefondation. She is currently in postproduction with the feature Lemonade, and in development with the feature Paperclip (recipient of the Sloan Sundance Commissioning Grant and of the Berlin Prize). Ioana is also a script consultant (Beyond the Hills, by Cristian Mungiu, Best Screenplay Award at the Cannes Film Festival).
+  bio: |
+    [Ioana Uricaru](http://www.imdb.com/name/nm2031842/) directed the short film Stopover (2011 Official Selection, Sundance Film Festival) and co-directed the omnibus feature Tales from the Golden Age (2009, Official Selection at the Cannes Film Festival). Ioana was a Fellow at the Sundance Screenwriting and Directing Labs and a resident of the Cannes Cinefondation. She is currently in postproduction with the feature Lemonade, and in development with the feature Paperclip (recipient of the Sloan Sundance Commissioning Grant and of the Berlin Prize). Ioana is also a script consultant (Beyond the Hills, by Cristian Mungiu, Best Screenplay Award at the Cannes Film Festival).
   image:
     src: middscreenwriters-ioana.jpg
     srcset:
     - middscreenwriters-ioana.jpg 1x
     - middscreenwriters-ioana@2x.jpg 2x
 - name: David Miranda Hardy
+  imdb: jjj/Da
   title: Middlebury College Professor
   degree: B.A. from the University of Chile and an M.F.A. in Filmmaking from Temple University (as a Fulbright Scholar)
   bio: |
-    FMMC Assistant Professor David Miranda Hardy is a Chilean filmmaker and sound designer, with a MFA in Film from Temple University in Philadelphia, where he resided for 5 years with a Fulbright Scholarship. David has taught Sound for Film, Screewriting and Directing in Chile, Cuba (EICTV) and in the USA.
+    FMMC Assistant Professor [David Miranda Hardy](http://www.imdb.com/name/nm8687193/) is a Chilean filmmaker and sound designer, with a MFA in Film from Temple University in Philadelphia, where he resided for 5 years with a Fulbright Scholarship. David has taught Sound for Film, Screewriting and Directing in Chile, Cuba (EICTV) and in the USA.
 
     Professor Miranda Hardy is the head of the Contents Department at Filmosonido Chile, where he was the show-runner for Bala Loca (Stray Bullet, 2016), a 10-episode miniseries broadcast by Turner-owned Chilevision. The show was nominated for a Best Series at the Platino Awards 2017 and is now distributed by Netflix.
   
@@ -29,8 +31,8 @@ people:
   title: Workshop Coordinator
 ---
 
-Middlebury College is organizing and sponsoring the workshop through the Ron and Jessica Liebowitz Fund for Innovation, which provides support for experimental and unconventional projects that have the potential to create lasting, positive change and strengthen Middlebury’s educational experience.
+Middlebury College is organizing and sponsoring the script lab through the [Ron and Jessica Liebowitz Fund for Innovation](http://www.middlebury.edu/about/fund-innovation), which provides support for experimental and unconventional projects that have the potential to create lasting, positive change and strengthen Middlebury’s educational experience.
 
 Middlebury College is a top liberal arts college located in idyllic Middlebury, Vermont. Founded in 1800, it has a tradition of social engagement, entrepreneurship and innovation. It is home to celebrated programs such as the Language Schools, the Bread Loaf Writers’ Conferences and the Bread Loaf School of English.
 
-Middlebury’s famous alumni in the entertainment industry include writer/director Michael Tolkin (The Player) writer/producer Shawn Ryan (The Shield), producer Andrew Peterson (Howl, Thin Ice), filmmaker and digital entrepreneur Ryan Koo (founder of nofilmschool.com).
+Middlebury’s famous alumni in the entertainment industry include writer/director Michael Tolkin (The Player) writer/producer Shawn Ryan (The Shield), producer Andrew Peterson (Howl, Thin Ice), filmmaker and digital entrepreneur Ryan Koo (founder of [nofilmschool.com](http://nofilmschool.com)).

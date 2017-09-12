@@ -26,7 +26,7 @@ Applications will be submitted through [Film Freeway](www.filmfreeway.com) and w
 
   - Final notifications of acceptance will occur on a rolling basis until Friday, December 1
 
-### Workshop dates
+### Script Lab dates
 
 Arrival Wednesday, January 10, 2018
 
