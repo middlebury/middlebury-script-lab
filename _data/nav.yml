@@ -7,5 +7,6 @@
 - text: Application
   link: "#application"
   class: js-link
-- text: Contact
-  link: "#"
+- text: FAQs
+  link: "#faq"
+  class: js-link
