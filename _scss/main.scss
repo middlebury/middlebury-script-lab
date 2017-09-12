@@ -100,8 +100,14 @@
 
   li {
     margin-bottom: 24px;
-    text-transform: uppercase;
-    letter-spacing: 1px;
+    position: relative;
+
+    &:before {
+      content: '-';
+      position: absolute;
+      right: calc(100% + 8px);
+      top: 2px;
+    }
   }
 }
 
