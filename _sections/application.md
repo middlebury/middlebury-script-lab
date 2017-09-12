@@ -4,26 +4,36 @@ slug: application
 order: 4
 ---
 
-The application is done exclusively through Film Freeway and consists of:
+Applications will be submitted through [Film Freeway](www.filmfreeway.com) and will require:
 
-- The first 10 pages of your script in Final Draft (pdf version). After a first round of selection we will ask for the full draft of the screenplay before making a final decision.
+- the first 10 pages of your final script as a pdf file. After a first round of selection we will ask for the full draft of your screenplay before making a final decision.
 
-- A synopsis
+- a synopsis of your screenplay (how long is recommended?)
 
-- Treatment or outline of the script (5-8 pages)
+- an outline of the entire script (5-8 pages)
 
-- Personal and artistic statements provided as answers to specific questions in the application
+- complete answers to the questions within the application
 
-- 30 USD application fee
+- $30 USD application fee
 
 ### Deadlines
 
-October 10 for the initial round of applications, November 1st for the full draft if you are selected for the second round. Final notifications of acceptance: on a rolling basis until December 1st.
+- Initial applications are due Tuesday, October 10, 2017
+
+  - Applicants will be notified of round one decisions via (blank) on or before (date)
+
+- If you are selected for the next round, the full draft is due on Wednesday, November 1
+
+  - Final notifications of acceptance will occur on a rolling basis until Friday, December 1
 
 ### Workshop dates
 
-January 11-17 2017 (arriving on the 10th, departing on the 18th). 
+Arrival Wednesday, January 10, 2018
 
-Please direct inquiries at the email address below.
+Workshop days will run Thursday, January 11 through Wednesday, January 17
 
-screenwriters@middlebury.edu
+Participants will depart Thursday, January 18.  
+
+### Contact
+
+Please direct inquiries to: [screenwriters@middlebury.edu](mailto:screenwriters@middlebury.edu)
