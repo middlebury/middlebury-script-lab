@@ -4,9 +4,11 @@ slug: application
 order: 4
 ---
 
-Applications will be submitted through [Film Freeway](www.filmfreeway.com) and will require:
+Applications will be submitted through [Film Freeway](www.filmfreeway.com). You will first submit an initial application, then, should you be selected for final submission, we will ask for your full screenplay.
 
-- the first 10 pages of your final script as a pdf file. After a first round of selection we will ask for the full draft of your screenplay before making a final decision.
+Round one applications should include:
+
+- the first 10 pages of your final script as a pdf file
 
 - a synopsis of your screenplay (how long is recommended?)
 
@@ -16,17 +18,14 @@ Applications will be submitted through [Film Freeway](www.filmfreeway.com) and w
 
 - $30 USD application fee
 
+
 ## Deadlines
 
-### Initial application date
-
-Tuesday, October 10, 2017
+### Round One application date: Tuesday, October 10, 2017
 
 Applicants will be notified of round one decisions via (blank) on or before (date)
 
-### Final application date
-
-Wednesday, November 1, 2017
+### Final application date: Wednesday, November 1, 2017
 
 Final notifications of acceptance will occur on a rolling basis until Friday, December 1
 
