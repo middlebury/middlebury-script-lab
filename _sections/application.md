@@ -20,11 +20,11 @@ Applications will be submitted through [Film Freeway](www.filmfreeway.com) and w
 
 - Initial applications are due Tuesday, October 10, 2017
 
-  - Applicants will be notified of round one decisions via (blank) on or before (date)
+- Applicants will be notified of round one decisions via (blank) on or before (date)
 
 - If you are selected for the next round, the full draft is due on Wednesday, November 1
 
-  - Final notifications of acceptance will occur on a rolling basis until Friday, December 1
+- Final notifications of acceptance will occur on a rolling basis until Friday, December 1
 
 ### Script Lab dates
 
