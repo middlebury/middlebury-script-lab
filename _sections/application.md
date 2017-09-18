@@ -16,23 +16,19 @@ Applications will be submitted through [Film Freeway](www.filmfreeway.com) and w
 
 - $30 USD application fee
 
-### Deadlines
+## Deadlines
 
-- Initial applications are due Tuesday, October 10, 2017
+### Initial application date
 
-- Applicants will be notified of round one decisions via (blank) on or before (date)
+Tuesday, October 10, 2017
 
-- If you are selected for the next round, the full draft is due on Wednesday, November 1
+Applicants will be notified of round one decisions via (blank) on or before (date)
 
-- Final notifications of acceptance will occur on a rolling basis until Friday, December 1
+### Final application date
 
-### Script Lab dates
+Wednesday, November 1, 2017
 
-Arrival Wednesday, January 10, 2018
-
-Workshop days will run Thursday, January 11 through Wednesday, January 17
-
-Participants will depart Thursday, January 18.  
+Final notifications of acceptance will occur on a rolling basis until Friday, December 1
 
 ### Contact
 
