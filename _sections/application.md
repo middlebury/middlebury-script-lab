@@ -21,11 +21,11 @@ Round one applications should include:
 
 ## Deadlines
 
-### Round One application date: Tuesday, October 10, 2017
+### Tuesday, October 10, 2017
 
 Applicants will be notified of round one decisions via (blank) on or before (date)
 
-### Final application date: Wednesday, November 1, 2017
+### Wednesday, November 1, 2017
 
 Final notifications of acceptance will occur on a rolling basis until Friday, December 1
 
