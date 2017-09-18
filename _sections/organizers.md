@@ -14,7 +14,6 @@ people:
     - middscreenwriters-ioana.jpg 1x
     - middscreenwriters-ioana@2x.jpg 2x
 - name: David Miranda Hardy
-  imdb: jjj/Da
   title: Middlebury College Professor
   degree: B.A. from the University of Chile and an M.F.A. in Filmmaking from Temple University (as a Fulbright Scholar)
   bio: |
