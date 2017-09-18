@@ -28,7 +28,3 @@ Applicants will be notified of round one decisions via (blank) on or before (dat
 ### Wednesday, November 1, 2017
 
 Final notifications of acceptance will occur on a rolling basis until Friday, December 1
-
-### Contact
-
-Please direct inquiries to: [screenwriters@middlebury.edu](mailto:screenwriters@middlebury.edu)

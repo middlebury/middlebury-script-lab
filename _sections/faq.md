@@ -42,11 +42,12 @@ Applicants must be 18 years or older.
 
 ### Can I bring my partner/children?
 
-You may be able to bring your partner if we can accommodate you in a double room. However, there is a fee for covering the partner’s room and board. You may contact us via email if you are interested in this option. (this doesn't answer the question regarding children)
+You may be able to bring your partner if we can accommodate you in a double room. However, there is a fee for covering the partner’s room and board. Please [contact us](https://forms.middlebury.edu/offices/news/middlebury-script-lab) if you are interested in this option. (this doesn't answer the question regarding children)
+   
 
 ### Where can I direct additional questions?
 
-Please email us at for inquiries is [screenwriters@middlebury.edu](mailto:screenwriters@middlebury.edu)
+Please [contact us](https://forms.middlebury.edu/offices/news/middlebury-script-lab) through our form or email us at [screenwriters@middlebury.edu](mailto:screenwriters@middlebury.edu)
 
 ### What if I can't upload my pdf on Film Freeway?
 
