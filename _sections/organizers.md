@@ -27,7 +27,6 @@ people:
     - middscreenwriters-david.jpg 1x
     - middscreenwriters-david@2x.jpg 2x
 - name: Bladimir Aguirre
-  degree: Bachelor of Science in economics with a minor in political science from Middlebury College
   title: Middlebury Script Lab Coordinator, Middlebury College Film and Media Culture Department
   bio: |
     Prior to his current position at Middlebury College, Bladimir Aguirre worked for film finance consulting firm Focus Advisory LLC, where he learned how movies are financed, marketed, and used as long-term investments. Aguirre looks forward to collaborating with Middlebury Script Lab participants, and serve as an information resource, helping participants gain the most from their week at Middlebury Script Lab.
