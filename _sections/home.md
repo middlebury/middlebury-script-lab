@@ -17,7 +17,7 @@ The Middlebury Script Lab is looking to mentor and support the next generation o
 
 ### When
 
-Wednesday, January 10 through Thursday, January 18, 2018
+January 11&ndash;17, 2018
 
 ### Where
 

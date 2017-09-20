@@ -10,21 +10,20 @@ Round one applications should include:
 
 - the first 10 pages of your final script as a pdf file
 
-- a synopsis of your screenplay (how long is recommended?)
+- a one-page synopsis of your screenplay
 
-- an outline of the entire script (5-8 pages)
+- an outline or treatment of the entire script (5-8 pages)
 
 - complete answers to the questions within the application
 
-- $30 USD application fee
-
-
 ## Deadlines
-
-### Tuesday, October 10, 2017
-
-Applicants will be notified of round one decisions via (blank) on or before (date)
 
 ### Wednesday, November 1, 2017
 
-Final notifications of acceptance will occur on a rolling basis until Friday, December 1
+Applicants will be notified of round one decisions via email on or before Novemeber 15, 2017.
+
+### Monday, November 20, 2017
+
+Applicants who are selected for the next round must submit their full draft by this date.
+
+Final notifications of acceptance will occur on a rolling basis until Friday, December 1.
