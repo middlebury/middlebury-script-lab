@@ -8,7 +8,7 @@ order: 2
 
 Six emerging screenwriters - the Fellows - will be invited to spend one week at Middlebury’s Bread Loaf campus in the Green Mountains of Vermont.
 
-Acclaimed literary works have been conceived and developed at the Bread Loaf campus, home of the legendary [Bread Loaf Writers Conference](http://www.middlebury.edu/bread-loaf-conferences). The iconic yellow buildings will now welcome screenwriters developing their first or second script. 
+Acclaimed literary works have been conceived and developed at the Bread Loaf campus, home of the legendary [Bread Loaf Writers Conference](http://www.middlebury.edu/bread-loaf-conferences). The iconic yellow buildings will now welcome screenwriters developing their first or second script. You will find your inspiration sitting by the fireplace in the historic Bread Loaf Inn or skiing and snowshoeing in the crisp Vermont outdoors.
 
 This residential experience is an extraordinary opportunity to focus intensely on your writing in a beautiful and tranquil location, receive feedback on your writing and start thinking strategically about your screenplay’s journey to production. Lodging, meals and a portion of your travel costs are on us. All you have to do is write.
 
@@ -18,6 +18,6 @@ The Fellows will be shadowed by a handful of Middlebury students who are aspirin
 
 ## Send us your work
 
-We are looking for compelling, exciting screenplays that have a completed first draft (75-120 pages). The screenplay should be the writer’s first or second feature script (no more than one other feature screenplay produced or sold) and fit the scale of an independent production. Writers who find brainstorming and discussion helpful will get the most out of the script lab.
+We are looking for compelling, exciting screenplays that have a completed first draft (75-120 pages). The screenplay should be the writer’s first or second feature script (no more than one other feature screenplay produced or sold) and fit the scale of an independent production. Writers who find brainstorming and discussion helpful will get the most out of the Script Lab.
 
-The screenplay should be written in English, in any genre, and must be the original work of the author (no adaptations). At this time, we are only accepting individual writers – no teams – and we encourage submissions from writer-directors. Candidates must be US citizens or permanent residents. 
+The screenplay should be written in English, in any genre, and must be the original work of the author (no adaptations). At this time, we are only accepting individual writers – no teams – and we encourage submissions from writer-directors. Candidates must be US citizens or permanent residents who are over 21 years of age on January 1st 2018. 
