@@ -4,23 +4,23 @@ slug: application
 order: 4
 ---
 
-Applications will be submitted through [Film Freeway](www.filmfreeway.com). You will first submit an initial application, then, should you be selected for final submission, we will ask for your full screenplay.
+Applications will be submitted through [Film Freeway](https://www.filmfreeway.com). You will first submit an initial application; then, should you be selected for final submission, we will ask for your full screenplay.
 
 Round one applications should include:
 
-- the first 10 pages of your final script as a pdf file
+- The first 10 pages of your final script as a PDF file
 
-- a one-page synopsis of your screenplay
+- A one-page synopsis of your screenplay
 
-- an outline or treatment of the entire script (5-8 pages)
+- An outline or treatment of the entire script (5&ndash;8 pages)
 
-- complete answers to the questions within the application
+- Complete answers to the questions within the application
 
 ## Deadlines
 
 ### Wednesday, November 1, 2017
 
-Applicants will be notified of round one decisions via email on or before Novemeber 15, 2017.
+Applicants will be notified of round one decisions via email on or before November 15, 2017.
 
 ### Monday, November 20, 2017
 
