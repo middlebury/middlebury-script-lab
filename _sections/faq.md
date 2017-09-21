@@ -34,7 +34,7 @@ No, only individual writers or writer-directors can submit.
 
 ### Are adaptations eligible?
 
-Not at this time&mdash;only original works are eligible.
+Not at this time &mdash; only original works are eligible.
 
 ### Is there an age limit?
 
@@ -57,7 +57,7 @@ Email us and we’ll arrange an alternative solution.
 
 ### Who are the workshop advisors?
 
-Established industry professionals&mdash;writers, directors, producers&mdash;as well as agents or script consultants who will offer advice and feedback tailored to your project. We strive to invite advisors who can contribute specifically to the selected projects.
+Established industry professionals &mdash; writers, directors, producers &mdash; as well as agents or script consultants who will offer advice and feedback tailored to your project. We strive to invite advisors who can contribute specifically to the selected projects.
 
 ### What kind of activities will happen at the workshop?
 
