@@ -1,53 +1,379 @@
----
-layout: default
----
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
 
-{% assign sections = site.sections | sort: 'order' %}
-{% for section in sections %}
+    <title>Middlebury Script Lab</title>
+    <meta name="description" content="">
 
-  <section class="section" id="{{section.slug}}">
-    <h1 class="section-title{% if section.hide_title %} sr-only{% endif %}">{{section.title}}</h1>
+    <link rel="stylesheet" href="/comm/midd-screenwriters/css/main.css?1506018115280260000">
+  </head>
+  <body>
 
-    {% if section.image %}
+    <header class="site-header js-header">
+
+  <div class="site-brand js-site-brand">
+    <a href="http://www.middlebury.edu">
+      <img src="/comm/midd-screenwriters/img/midd-shield.svg" alt="Middlebury College">
+    </a>
+  </div>
+
+  <div class="site-title-nav js-nav">
+    <div class="container">
+
+      <h1 class="site-title">
+        <a href="/comm/midd-screenwriters/">Middlebury Script Lab</a>
+      </h1>
+
+      <input type="checkbox" class="nav-handler" id="nav-handler">
+
+      <label for="nav-handler" class="nav-toggler" aria-label="Toggle navigation">
+        <span class="close-icon" aria-hidden="true">
+          <img src="/comm/midd-screenwriters/img/icon-close.svg" alt="Close icon">
+        </span>
+        <span class="menu-icon" aria-hidden="true">
+          <img src="/comm/midd-screenwriters/img/icon-menu.svg" alt="Menu icon">
+        </span>
+        <span class="nav-toggler-text" aria-hidden="true">Menu</span>
+      </label>
+
+      <nav class="site-nav">
+        <ul class="site-nav-list">
+          
+            <li class="site-nav-item">
+              <a href="#overview" class="site-nav-link js-link">Overview</a>
+            </li>
+          
+            <li class="site-nav-item">
+              <a href="#organizers" class="site-nav-link js-link">Organizers</a>
+            </li>
+          
+            <li class="site-nav-item">
+              <a href="#application" class="site-nav-link js-link">Application</a>
+            </li>
+          
+            <li class="site-nav-item">
+              <a href="#faq" class="site-nav-link js-link">FAQs</a>
+            </li>
+          
+            <li class="site-nav-item">
+              <a href="https://forms.middlebury.edu/offices/news/middlebury-script-lab" class="site-nav-link ">Contact</a>
+            </li>
+          
+        </ul>
+        <a href="https://filmfreeway.com/festival/MiddleburyScriptLab" class="button button--primary site-header-button js-header-app-btn">Apply Now</a>
+      </nav>
+
+    </div>
+  </div>
+
+</header>
+
+
+    <div class="page">
+      <div class="container">
+        
+
+
+  <section class="section" id="home">
+    <h1 class="section-title sr-only">Home</h1>
+
+    
       <figure class="section-figure">
         <img
-          src="img/{{section.image.src}}"
-          srcset="{% for srcset in section.image.srcset %}img/{{srcset}}{% if forloop.last == false %}, {% endif %} {% endfor %}"
-          alt="{{section.image.alt}}"
+          src="img/hp-middscreenwriters-1.jpg"
+          srcset="img/hp-middscreenwriters-1.jpg 1x,  img/img/hp-middscreenwriters-1@2x.jpg 2x "
+          alt="Bread Loaf"
         />
       </figure>
-    {% endif %}
+    
 
-    {{section.content || markdownify}}
+    <h2 id="seeking-fresh-talent">Seeking fresh talent</h2>
 
-    {% if section.people %}
-      {% for person in section.people %}
-        <article class="person">
-          {% if person.image %}
-            <figure class="person-figure section-figure">
-              <img
-                src="img/{{person.image.src}}"
-                srcset="{% for srcset in person.image.srcset %}img/{{srcset}}{% if forloop.last == false %}, {% endif %}{% endfor %}"
-                alt="{{person.name}}"
-              />
-            </figure>
-          {% endif %}
+<p>The Middlebury Script Lab is looking to mentor and support the next generation of screenwriters. Our tuition-free program provides emerging screenwriters a place to focus intensely on their craft with the support of accomplished industry professionals.</p>
 
-          <h2 class="person-name">{{person.name}}</h3>
+<h3 id="when">When</h3>
 
-          <p><em>{{person.title}}</em></p>
+<p>January 11–17, 2018</p>
 
-          {% if person.degree %}
-            <p>{{person.degree}}</p>
-          {% endif %}
+<h3 id="where">Where</h3>
 
-          {% if person.bio %}
-            {{person.bio | markdownify}}
-          {% endif %}
-        </article>
-      {% endfor %}
-    {% endif %}
+<p>Middlebury College’s historic Bread Loaf campus in Vermont’s Green Mountains</p>
+
+<div class="section-action">
+  <a href="https://filmfreeway.com/festival/MiddleburyScriptLab" class="button js-app-btn">Apply now</a>
+</div>
+
+
+    
 
   </section>
 
-{% endfor %}
+
+
+  <section class="section" id="overview">
+    <h1 class="section-title">Overview</h1>
+
+    
+
+    <h2 id="bring-your-story-to-bread-loaf">Bring your story to Bread Loaf</h2>
+
+<p>Six emerging screenwriters — the fellows — will be invited to spend one week at Middlebury’s Bread Loaf campus in the Green Mountains of Vermont.</p>
+
+<p>Acclaimed literary works have been conceived and developed at the Bread Loaf campus, home of the legendary <a href="http://www.middlebury.edu/bread-loaf-conferences">Bread Loaf Writers’ Conference</a>. The iconic yellow buildings will now welcome screenwriters developing their first or second script. You will find your inspiration sitting by the fireplace in the historic Bread Loaf Inn or skiing and snowshoeing in the crisp Vermont outdoors.</p>
+
+<p>This residential experience is an extraordinary opportunity to focus intensely on your writing in a beautiful and tranquil location, receive feedback on your writing, and start thinking strategically about your screenplay’s journey to production. Lodging, meals, and a portion of your travel costs are on us. All you have to do is write.</p>
+
+<p>Writers, producers, script consultants, and agents — the advisors — will be offering their mentorship in workshops, master classes, and one-on-one conferences. Ample individual time is built into the week’s schedule, allowing fellows to make real progress on their screenplays.</p>
+
+<p>The fellows will be shadowed by a handful of Middlebury students who are aspiring screenwriters and filmmakers themselves. They will be the fellows’ hosts and local guides, help with research if needed, and be a sounding board for new ideas — or simply provide an informed audience for pitches and readings.</p>
+
+<h2 id="send-us-your-work">Send us your work</h2>
+
+<p>We are looking for compelling, exciting screenplays that have a completed first draft (75–120 pages). The screenplay should be the writer’s first or second feature script (no more than one other feature screenplay produced or sold) and fit the scale of an independent production. Writers who find brainstorming and discussion helpful will get the most out of the Script Lab.</p>
+
+<p>The screenplay should be written in English, in any genre, and must be the original work of the author (no adaptations). At this time, we are only accepting individual writers — no teams — and we encourage submissions from writer-directors. Candidates must be U.S. citizens or permanent residents who are over 18 years of age on January 1, 2018.</p>
+
+
+    
+
+  </section>
+
+
+
+  <section class="section" id="organizers">
+    <h1 class="section-title">Organizers</h1>
+
+    
+
+    <p>Middlebury College is organizing and sponsoring the Script Lab through the <a href="http://www.middlebury.edu/about/fund-innovation">Ron and Jessica Liebowitz Fund for Innovation</a>, which provides support for experimental and unconventional projects that have the potential to create lasting, positive change and strengthen Middlebury’s educational experience.</p>
+
+<p>Middlebury College is a top liberal arts college located in idyllic Middlebury, Vermont. Founded in 1800, it has a tradition of social engagement, entrepreneurship, and innovation. It is home to celebrated programs such as the Language Schools, the Bread Loaf Writers’ Conferences, and the Bread Loaf School of English.</p>
+
+<p>Middlebury’s famous alumni in the entertainment industry include writer/director Michael Tolkin (<em>The Player</em>), writer/producer Shawn Ryan (<em>The Shield</em>), producer Andrew Peterson (<em>Howl</em>, <em>Thin Ice</em>), Justin Haythe (<em>Revolutionary Road</em>, <em>Red Sparrow</em>), and filmmaker and digital entrepreneur Ryan Koo (founder of <a href="http://nofilmschool.com">nofilmschool.com</a>).</p>
+
+
+    
+      
+        <article class="person">
+          
+            <figure class="person-figure section-figure">
+              <img
+                src="img/middscreenwriters-ioana.jpg"
+                srcset="img/middscreenwriters-ioana.jpg 1x, img/middscreenwriters-ioana@2x.jpg 2x"
+                alt="Ioana Uricaru"
+              />
+            </figure>
+          
+
+          <h2 class="person-name">Ioana Uricaru</h3>
+
+          <p><em>Director and Middlebury College Professor</em></p>
+
+          
+            <p>MFA in film production and PhD in critical studies from the University of Southern California</p>
+          
+
+          
+            <p><a href="http://www.imdb.com/name/nm2031842/">Ioana Uricaru</a> directed the short film <em>Stopover</em> (2011 Official Selection, Sundance Film Festival) and codirected the omnibus feature <em>Tales from the Golden Age</em> (2009, Official Selection at the Cannes Film Festival). Uricaru was a fellow at the Sundance Screenwriting and Directing Labs and a resident of the Cannes Cinefondation. She is currently in postproduction with the feature <em>Lemonade</em>, and in development with the feature <em>Paperclip</em> (recipient of the Sloan Sundance Commissioning Grant and of the Berlin Prize). Uricaru is also a script consultant (<em>Beyond the Hills</em>, by Cristian Mungiu, Best Screenplay Award at the Cannes Film Festival).</p>
+
+          
+        </article>
+      
+        <article class="person">
+          
+            <figure class="person-figure section-figure">
+              <img
+                src="img/middscreenwriters-david.jpg"
+                srcset="img/middscreenwriters-david.jpg 1x, img/middscreenwriters-david@2x.jpg 2x"
+                alt="David Miranda Hardy"
+              />
+            </figure>
+          
+
+          <h2 class="person-name">David Miranda Hardy</h3>
+
+          <p><em>Middlebury College Professor</em></p>
+
+          
+            <p>BA from the University of Chile and an MFA in filmmaking from Temple University (as a Fulbright Scholar)</p>
+          
+
+          
+            <p>FMMC Assistant Professor <a href="http://www.imdb.com/name/nm8687193/">David Miranda Hardy</a> is a Chilean filmmaker and sound designer, with an MFA in film from Temple University in Philadelphia, where he resided for five years on a Fulbright Scholarship. David has taught sound for film, screenwriting, and directing in Chile, Cuba (EICTV), and the USA.</p>
+
+<p>Miranda Hardy is the head of the Contents Department at Filmosonido Chile, where he was the showrunner for <em>Bala Loca</em> (<em>Stray Bullet</em>, 2016), a 10-episode miniseries broadcast by Turner-owned Chilevision. The show was nominated for Best Series at the Platino Awards 2017 and is now distributed by Netflix.</p>
+
+          
+        </article>
+      
+        <article class="person">
+          
+
+          <h2 class="person-name">Bladimir Aguirre</h3>
+
+          <p><em>Middlebury Script Lab Coordinator, Middlebury College Film and Media Culture Department</em></p>
+
+          
+
+          
+            <p>Prior to his current position at Middlebury College, Bladimir Aguirre worked for film finance consulting firm Focus Advisory LLC, where he learned how movies are financed, marketed, and used as long-term investments. Aguirre looks forward to collaborating with Middlebury Script Lab participants and serving as an information resource, helping participants gain the most from their week at the Middlebury Script Lab.</p>
+
+          
+        </article>
+      
+    
+
+  </section>
+
+
+
+  <section class="section" id="application">
+    <h1 class="section-title">Application</h1>
+
+    
+
+    <p>Applications will be submitted through <a href="https://www.filmfreeway.com">Film Freeway</a>. You will first submit an initial application; then, should you be selected for final submission, we will ask for your full screenplay.</p>
+
+<p>Round one applications should include:</p>
+
+<ul>
+  <li>
+    <p>The first 10 pages of your final script as a PDF file</p>
+  </li>
+  <li>
+    <p>A one-page synopsis of your screenplay</p>
+  </li>
+  <li>
+    <p>An outline or treatment of the entire script (5–8 pages)</p>
+  </li>
+  <li>
+    <p>Complete answers to the questions within the application</p>
+  </li>
+</ul>
+
+<h2 id="deadlines">Deadlines</h2>
+
+<h3 id="wednesday-november-1-2017">Wednesday, November 1, 2017</h3>
+
+<p>Applicants will be notified of round one decisions via email on or before November 15, 2017.</p>
+
+<h3 id="monday-november-20-2017">Monday, November 20, 2017</h3>
+
+<p>Applicants who are selected for the next round must submit their full draft by this date.</p>
+
+<p>Final notifications of acceptance will occur on a rolling basis until Friday, December 1.</p>
+
+
+    
+
+  </section>
+
+
+
+  <section class="section" id="faq">
+    <h1 class="section-title">FAQ</h1>
+
+    
+
+    <h3 id="am-i-required-to-provide-proof-of-citizenshipresidency">Am I required to provide proof of citizenship/residency?</h3>
+
+<p>No, we will take you at your word  that you satisfy the requirement. We cannot make visa arrangements or offer support if you are not a U.S. citizen or permanent resident.</p>
+
+<h3 id="should-my-industry-contacts-call-you-to-provide-references">Should my industry contacts call you to provide references?</h3>
+
+<p>No. We are only considering your writing and your personal statements. No references are necessary, nor would they make a difference.</p>
+
+<h3 id="how-much-do-i-have-to-pay">How much do I have to pay?</h3>
+
+<p>Your only costs will be a portion of the travel costs.</p>
+
+<h3 id="what-does-partial-travel-costs-mean">What does “partial travel costs” mean?</h3>
+
+<p>You will make your own travel arrangements, and we will offer a partial reimbursement of your travel costs (the lesser between $300 USD and flight cost for flights, standard mileage for driving).</p>
+
+<h3 id="what-if-i-dont-have-access-to-final-draft">What if I don’t have access to Final Draft?</h3>
+
+<p>You can use other software that provides similar formatting, compatible with the industry standard (such as Celtx or Scrivener).</p>
+
+<h3 id="can-teams-submit">Can teams submit?</h3>
+
+<p>No, only individual writers or writer-directors can submit.</p>
+
+<h3 id="are-adaptations-eligible">Are adaptations eligible?</h3>
+
+<p>Not at this time — only original works are eligible.</p>
+
+<h3 id="is-there-an-age-limit">Is there an age limit?</h3>
+
+<p>Applicants must be 18 years or older.</p>
+
+<h3 id="can-i-bring-my-partnerchildren">Can I bring my partner/children?</h3>
+
+<p>You may be able to bring your partner if we can accommodate you in a double room. However, there is a fee for covering the partner’s room and board. Please <a href="https://forms.middlebury.edu/offices/news/middlebury-script-lab">contact us</a> if you are interested in this option. We are sorry that we cannot accommodate the presence of fellows’ children at this time.</p>
+
+<h3 id="where-can-i-direct-additional-questions">Where can I direct additional questions?</h3>
+
+<p>Please <a href="https://forms.middlebury.edu/offices/news/middlebury-script-lab">contact us</a> through our form or email us at <a href="&#109;&#097;&#105;&#108;&#116;&#111;:&#115;&#099;&#114;&#101;&#101;&#110;&#119;&#114;&#105;&#116;&#101;&#114;&#115;&#064;&#109;&#105;&#100;&#100;&#108;&#101;&#098;&#117;&#114;&#121;&#046;&#101;&#100;&#117;">&#115;&#099;&#114;&#101;&#101;&#110;&#119;&#114;&#105;&#116;&#101;&#114;&#115;&#064;&#109;&#105;&#100;&#100;&#108;&#101;&#098;&#117;&#114;&#121;&#046;&#101;&#100;&#117;</a>.</p>
+
+<h3 id="what-if-i-cant-upload-my-pdf-on-film-freeway">What if I can’t upload my pdf on Film Freeway?</h3>
+
+<p>Email us and we’ll arrange an alternative solution.</p>
+
+<!-- (the next two FAQ's should go away or the information should live elsewhere) -->
+
+<h3 id="who-are-the-workshop-advisors">Who are the workshop advisors?</h3>
+
+<p>Established industry professionals — writers, directors, producers — as well as agents or script consultants who will offer advice and feedback tailored to your project. We strive to invite advisors who can contribute specifically to the selected projects.</p>
+
+<h3 id="what-kind-of-activities-will-happen-at-the-workshop">What kind of activities will happen at the workshop?</h3>
+
+<p>Activities will fall into three broad categories:</p>
+
+<ul>
+  <li>Group workshops (for fellows)</li>
+  <li>Master classes, Q&amp;A sessions, and talks (open to a larger audience)</li>
+  <li>One-on-one advising specific to each project</li>
+</ul>
+
+<p>And of course there will be plenty of time to write.</p>
+
+<h3 id="how-will-i-be-notified-of-acceptance-and-other-important-information">How will I be notified of acceptance and other important information?</h3>
+
+<p>Via email, so please make sure you give a current, working email address in the application.</p>
+
+<!-- (the next FAQ can go away) -->
+
+<h3 id="i-dont-have-professional-film-experience-can-i-apply">I don’t have professional film experience. Can I apply? </h3>
+
+<p>Yes. We are very interested in writers with great potential who for some reason or another have never had a chance to be discovered. We are also interested in writers who practiced in another medium and are now looking to make a transition to screenwriting.</p>
+
+
+    
+
+  </section>
+
+
+
+      </div>
+    </div>
+
+    <footer class="site-footer">
+  <div class="container">
+    <div class="footer-row">
+
+      <div class="footer-info">
+        <p>&copy; 2017 Middlebury. All Rights Reserved.</p>
+      </div>
+
+    </div>
+  </div>
+</footer>
+
+
+    <script src="/comm/midd-screenwriters/js/bundle.js?1506018115280260000" async></script>
+  </body>
+
+</html>

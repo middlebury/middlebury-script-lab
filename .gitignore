@@ -1,7 +1,0 @@
-_site
-node_modules
-*.log
-.sass-cache
-css
-js
-.jekyll-metadata
