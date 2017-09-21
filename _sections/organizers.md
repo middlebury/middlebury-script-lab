@@ -15,9 +15,9 @@ people:
     - middscreenwriters-ioana@2x.jpg 2x
 - name: David Miranda Hardy
   title: Middlebury College Professor
-  degree: BA from the University of Chile and an MFA. in filmmaking from Temple University (as a Fulbright Scholar)
+  degree: BA from the University of Chile and an MFA in filmmaking from Temple University (as a Fulbright Scholar)
   bio: |
-    FMMC Assistant Professor [David Miranda Hardy](http://www.imdb.com/name/nm8687193/) is a Chilean filmmaker and sound designer, with an MFA in film from Temple University in Philadelphia, where he resided for five years on a Fulbright Scholarship. David has taught sound for film, screewriting and directing in Chile, Cuba (EICTV), and the USA.
+    FMMC Assistant Professor [David Miranda Hardy](http://www.imdb.com/name/nm8687193/) is a Chilean filmmaker and sound designer, with an MFA in film from Temple University in Philadelphia, where he resided for five years on a Fulbright Scholarship. David has taught sound for film, screenwriting, and directing in Chile, Cuba (EICTV), and the USA.
 
     Miranda Hardy is the head of the Contents Department at Filmosonido Chile, where he was the showrunner for *Bala Loca* (*Stray Bullet*, 2016), a 10-episode miniseries broadcast by Turner-owned Chilevision. The show was nominated for Best Series at the Platino Awards 2017 and is now distributed by Netflix.
   
@@ -29,7 +29,7 @@ people:
 - name: Bladimir Aguirre
   title: Middlebury Script Lab Coordinator, Middlebury College Film and Media Culture Department
   bio: |
-    Prior to his current position at Middlebury College, Bladimir Aguirre worked for film finance consulting firm Focus Advisory LLC, where he learned how movies are financed, marketed, and used as long-term investments. Aguirre looks forward to collaborating with Middlebury Script Lab participants and serve as an information resource, helping participants gain the most from their week at the Middlebury Script Lab.
+    Prior to his current position at Middlebury College, Bladimir Aguirre worked for film finance consulting firm Focus Advisory LLC, where he learned how movies are financed, marketed, and used as long-term investments. Aguirre looks forward to collaborating with Middlebury Script Lab participants and serving as an information resource, helping participants gain the most from their week at the Middlebury Script Lab.
 
 ---
 

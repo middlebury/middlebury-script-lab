@@ -14,7 +14,7 @@ This residential experience is an extraordinary opportunity to focus intensely o
 
 Writers, producers, script consultants, and agents&mdash;the advisors&mdash;will be offering their mentorship in workshops, master classes, and one-on-one conferences. Ample individual time is built into the week’s schedule, allowing fellows to make real progress on their screenplays. 
 
-The fellows will be shadowed by a handful of Middlebury students who are aspiring screenwriters and filmmakers themselves. They will be the fellows’ hosts and local guides, help with research if needed and be a sounding board for new ideas&mdash;or simply provide an informed audience for pitches and readings. 
+The fellows will be shadowed by a handful of Middlebury students who are aspiring screenwriters and filmmakers themselves. They will be the fellows’ hosts and local guides, help with research if needed, and be a sounding board for new ideas&mdash;or simply provide an informed audience for pitches and readings. 
 
 ## Send us your work
 
