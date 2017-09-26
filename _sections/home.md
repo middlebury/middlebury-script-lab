@@ -6,7 +6,7 @@ image:
   src: hp-middscreenwriters-1.jpg
   srcset:
   - hp-middscreenwriters-1.jpg 1x
-  - img/hp-middscreenwriters-1@2x.jpg 2x
+  - hp-middscreenwriters-1@2x.jpg 2x
   alt: Bread Loaf
 order: 1
 ---
