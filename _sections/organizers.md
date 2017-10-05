@@ -35,6 +35,8 @@ people:
 
 Middlebury College is organizing and sponsoring the Script Lab through the [Ron and Jessica Liebowitz Fund for Innovation](http://www.middlebury.edu/about/fund-innovation), which provides support for experimental and unconventional projects that have the potential to create lasting, positive change and strengthen Middlebury’s educational experience.
 
-Middlebury College is a top liberal arts college located in idyllic Middlebury, Vermont. Founded in 1800, it has a tradition of social engagement, entrepreneurship, and innovation. It is home to celebrated programs such as the Language Schools, the Bread Loaf Writers’ Conferences, and the Bread Loaf School of English.
 
-Middlebury’s famous alumni in the entertainment industry include writer/director Michael Tolkin (*The Player*), writer/producer Shawn Ryan (*The Shield*), producer Andrew Peterson (*Howl*, *Thin Ice*), Justin Haythe (*Revolutionary Road*, *Red Sparrow*), and filmmaker and digital entrepreneur Ryan Koo (founder of [nofilmschool.com](http://nofilmschool.com)).
+Middlebury College, located in Middlebury, Vermont, is a liberal arts college with a tradition of social engagement, entrepreneurship, and innovation. In addition to its undergraduate College, Middlebury is home to a number of other exceptional schools and programs, including the Middlebury Language Schools, the Bread Loaf Writers’ Conferences, and the Bread Loaf School of English.
+
+Notable Middlebury alumni in the entertainment industry include writer/director Michael Tolkin (*The Player*), writer/producer Shawn Ryan (*The Shield*), producer Andrew Peterson (*Howl*, *Thin Ice*), Justin Haythe (*Revolutionary Road*, *Red Sparrow*), and filmmaker and digital entrepreneur Ryan Koo (founder of [nofilmschool.com](http://nofilmschool.com)).
+
