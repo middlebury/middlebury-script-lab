@@ -9,20 +9,12 @@ slug: faq
 
 No, we will take you at your word  that you satisfy the requirement. We cannot make visa arrangements or offer support if you are not a U.S. citizen or permanent resident.
 
-
 ### Should my industry contacts call you to provide references?
 
 No. We are only considering your writing and your personal statements. No references are necessary, nor would they make a difference.
 
-
 ### How much do I have to pay?
-
-Your only costs will be a portion of the travel costs.
-
-
-### What does "partial travel costs" mean?
-
-You will make your own travel arrangements, and we will offer a partial reimbursement of your travel costs (the lesser between $300 USD and flight cost for flights, standard mileage for driving).
+Fellows’ only costs will be travel costs to Burlington, VT (or to Middlebury if you are driving)
 
 ### What if I don't have access to Final Draft?
 
@@ -53,8 +45,6 @@ Please [contact us](https://forms.middlebury.edu/offices/news/middlebury-script-
 
 Email us and we’ll arrange an alternative solution.
 
-<!-- (the next two FAQ's should go away or the information should live elsewhere) -->
-
 ### Who are the workshop advisors?
 
 Established industry professionals &mdash; writers, directors, producers &mdash; as well as agents or script consultants who will offer advice and feedback tailored to your project. We strive to invite advisors who can contribute specifically to the selected projects.
@@ -73,8 +63,16 @@ And of course there will be plenty of time to write.
 
 Via email, so please make sure you give a current, working email address in the application.
 
-<!-- (the next FAQ can go away) -->
-
 ### I don't have professional film experience. Can I apply? 
 
 Yes. We are very interested in writers with great potential who for some reason or another have never had a chance to be discovered. We are also interested in writers who practiced in another medium and are now looking to make a transition to screenwriting.
+
+
+### I don't know where to upload my script pages, additional materials or full script on film freeway.
+
+The application asks you to enter three additional materials (cover letter, artistic statement, personal statement) as answers to questions in designated rubrics. The first ten pages of your script should be uploaded in the “script” section of your project. The treatment should be uploaded through the “add files” options of your Film Freeway project. If you already have a completed script and you upload it in the “script” section from the beginning, we will read only the first ten pages initially and if you make it to the final round we’ll read the whole script.
+
+
+### My script is not ready or wasn’t selected for a fellowship this year. can I still audit the Script Lab?
+
+We are restricted by our budget and logistics to a maximum of six Script Lab fellows.  A great number of applicants asked about the possibility to audit the Lab and offered to cover their own expenses. Therefore, a very limited number of invitations to audit the Script Lab will be extended to second round finalists who have not been offered a fellowship and are interested in joining the lab and covering their own expenses. The Auditors will benefit from all the components of the Script Lab, except for one-on-one mentoring. If you are interested in this option, you will be asked to check a box during the Film Freeway application process. If you are selected for the second round but your script is not ready by October 20 or we are not able to offer you a fellowship, you will be considered for an auditing position only if you have expressed your interest in this option. 

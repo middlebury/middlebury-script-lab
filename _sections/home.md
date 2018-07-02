@@ -3,11 +3,11 @@ title: Home
 slug: home
 hide_title: true
 image:
-  src: hp-middscreenwriters-1.jpg
-  srcset:
-  - hp-middscreenwriters-1.jpg 1x
-  - hp-middscreenwriters-1@2x.jpg 2x
-  alt: Bread Loaf
+  src: midd-winter.jpg
+  # srcset:
+  # - hp-middscreenwriters-1.jpg 1x
+  # - hp-middscreenwriters-1@2x.jpg 2x
+  # alt: Bread Loaf
 order: 1
 ---
 
@@ -17,11 +17,11 @@ The Middlebury Script Lab is looking to mentor and support the next generation o
 
 ### When
 
-January 11&ndash;17, 2018
+January 11&ndash;16, 2019
 
 ### Where
+Idyllic Middlebury,Vermont, home to Middlebury College and historic Bread Loaf campus.
 
-Middlebury College’s historic Bread Loaf campus in Vermont’s Green Mountains
 
 <div class="section-action">
   <a href="{{site.apply_link}}" class="button js-app-btn">Apply now</a>

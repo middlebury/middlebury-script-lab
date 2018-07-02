@@ -48,6 +48,37 @@ layout: default
       {% endfor %}
     {% endif %}
 
+    {% if section.past_people %}
+      <h2 class="section-title">Past advisors</h2>
+      {% for person in section.past_people %}
+        <article class="person">
+          {% if person.image %}
+            <figure class="person-figure section-figure">
+              <img
+                src="img/{{person.image.src}}"
+                srcset="{% for srcset in person.image.srcset %}img/{{srcset}}{% if forloop.last == false %}, {% endif %}{% endfor %}"
+                alt="{{person.name}}"
+              />
+            </figure>
+          {% endif %}
+
+          <h2 class="person-name">{{person.name}}</h3>
+
+          {% if person.title %}
+            <p><em>{{person.title | markdownify | remove: '<p>' | remove: '</p>'}}</em></p>
+          {% endif %}
+
+          {% if person.degree %}
+            <p>{{person.degree}}</p>
+          {% endif %}
+
+          {% if person.bio %}
+            {{person.bio | markdownify}}
+          {% endif %}
+        </article>
+      {% endfor %}
+    {% endif %}
+
   </section>
 
 {% endfor %}

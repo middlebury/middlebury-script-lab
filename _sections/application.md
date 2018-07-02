@@ -18,12 +18,14 @@ Round one applications should include:
 
 ## Deadlines
 
-### Wednesday, November 1, 2017
+- August 1, 2018 early deadline
 
-Applicants will be notified of round one decisions via email on or before November 15, 2017.
+- September 1, 2018 regular deadline
 
-### Monday, November 20, 2017
+- October 1, 2018 late deadline
 
-Applicants who are selected for the next round must submit their full draft by this date.
+- Notifications of finalists – rolling basis before October 15, 2018
 
-Final notifications of acceptance will occur on a rolling basis until Friday, December 1.
+- October 20, 2018: deadline for applicants selected for final round to submit full draft
+
+- Final notifications of acceptance: December 1, 2018
