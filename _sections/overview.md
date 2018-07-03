@@ -4,7 +4,7 @@ slug: overview
 order: 2
 ---
 
-## Bring your story to Bread Loaf
+## Bring your story to Vermont
 
 Six emerging screenwriters&mdash;the fellows&mdash;will be invited to spend one week at Middlebury, in the Champlain Valley of Vermont.
 
