@@ -4,7 +4,7 @@ slug: application
 order: 4
 ---
 
-Applications will be submitted through [Film Freeway](https://www.filmfreeway.com). You will first submit an initial application; then, should you be selected for final submission, we will ask for your full screenplay.
+Applications will be submitted through [Film Freeway](https://www.filmfreeway.com). You will first submit an initial application; then, should you be selected for the second round of evaluation, we will ask for your full screenplay.
 
 Round one applications should include:
 
