@@ -1,6 +1,12 @@
 ---
 order: 3
 title: People
+image:
+  src: midd-winter-4-b.jpg
+  srcset:
+  - midd-winter-4-b.jpg 1x
+  - midd-winter-4-b@2x.jpg 2x
+  alt: Students walking in snow
 slug: people
 people:
 - name: Ioana Uricaru
