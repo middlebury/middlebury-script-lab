@@ -20,7 +20,7 @@ Writers, producers, script consultants, and agents &mdash; the advisors &mdash; 
 
 The fellows will be shadowed by a handful of Middlebury students who are aspiring screenwriters and filmmakers themselves. They will be the fellows’ hosts and local guides, help with research if needed, and be a sounding board for new ideas &mdash; or simply provide an informed audience for pitches and readings. 
 
-We are particularly looking for talented emerging writers who have encountered extraordinary obstacles in their pursuit of screenwriting career
+We are particularly looking for talented emerging writers who have encountered extraordinary obstacles in their pursuit of a screenwriting career
 
 ## Send us your work
 
