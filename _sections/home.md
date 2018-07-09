@@ -3,11 +3,11 @@ title: Home
 slug: home
 hide_title: true
 image:
-  src: midd-winter.jpg
-  # srcset:
-  # - hp-middscreenwriters-1.jpg 1x
-  # - hp-middscreenwriters-1@2x.jpg 2x
-  # alt: Bread Loaf
+  src: middscreenwriters-mead-chapel.jpg
+  srcset:
+  - middscreenwriters-mead-chapel.jpg 1x
+  - middscreenwriters-mead-chapel@2x.jpg 2x
+  alt: Mead Chapel
 order: 1
 ---
 
