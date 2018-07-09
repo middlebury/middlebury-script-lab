@@ -44,7 +44,7 @@
     line-height: 22px;
     letter-spacing: 1px;
     margin-top: 24px;
-    margin-bottom: 4px;
+    margin-bottom: 0;
   }
 
   & > * {
@@ -126,11 +126,14 @@
 }
 
 .person {
-  margin-top: 72px;
+  & + &:not(.person--past) {
+    margin-top: 72px;
+  }
 }
 
 .person--past {
-  margin-top: 48px;
+  margin-top: 0;
+  margin-bottom: 24px;
 }
 
 .person-name.person-name {
@@ -138,7 +141,7 @@
 }
 
 .person-figure {
-  margin-bottom: 32px;
+  margin-bottom: 0;
 }
 
 .sr-only {
@@ -151,4 +154,8 @@
   white-space: nowrap;
   clip-path: inset(50%);
   border: 0;
+}
+
+.section-content {
+  margin-bottom: 72px;
 }

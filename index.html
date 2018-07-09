@@ -18,7 +18,9 @@ layout: default
       </figure>
     {% endif %}
 
-    {{section.content || markdownify}}
+    <div class="section-content">
+      {{section.content || markdownify}}
+    </div>
 
     {% if section.people %}
       {% for person in section.people %}
@@ -33,7 +35,7 @@ layout: default
             </figure>
           {% endif %}
 
-          <h2 class="person-name">{{person.name}}</h3>
+          <h3 class="person-name">{{person.name}}</h3>
 
           <p><em>{{person.title}}</em></p>
 
@@ -49,7 +51,7 @@ layout: default
     {% endif %}
 
     {% if section.past_people %}
-      <h2 class="section-title">Past advisors</h2>
+      <h2>Past advisors</h2>
       {% for person in section.past_people %}
         <article class="person person--past">
           {% if person.image %}
@@ -62,7 +64,7 @@ layout: default
             </figure>
           {% endif %}
 
-          <h2 class="person-name">{{person.name}}</h3>
+          <h3 class="person-name">{{person.name}}</h3>
 
           {% if person.title %}
             <p><em>{{person.title | markdownify | remove: '<p>' | remove: '</p>'}}</em></p>
