@@ -41,7 +41,7 @@ You may be able to bring your partner if we can accommodate you in a double room
 
 Please [contact us](https://forms.middlebury.edu/offices/news/middlebury-script-lab) through our form or email us at [screenwriters@middlebury.edu](mailto:screenwriters@middlebury.edu).
 
-### What if I can't upload my pdf on Film Freeway?
+### What if I can't upload my PDF on Film Freeway?
 
 Email us and we’ll arrange an alternative solution.
 
