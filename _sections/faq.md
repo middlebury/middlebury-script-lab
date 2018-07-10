@@ -79,11 +79,11 @@ Yes. We are very interested in writers with great potential who for some reason 
 The application asks you to enter three additional materials (cover letter, artistic statement, personal statement) as answers to questions in designated rubrics. The first ten pages of your script should be uploaded in the “script” section of your project. The treatment should be uploaded through the “add files” options of your Film Freeway project. If you already have a completed script and you upload it in the “script” section from the beginning, we will read only the first ten pages initially and if you make it to the final round we’ll read the whole script.
 
 
-### My script is not ready or wasn’t selected for a fellowship this year. can I still audit the Script Lab?
+### My script is not ready or wasn’t selected for a fellowship this year. Can I still audit the Script Lab?
 
 We are restricted by our budget and logistics to a maximum of six Script Lab fellows.  A great number of applicants asked about the possibility to audit the Lab and offered to cover their own expenses. Therefore, a very limited number of invitations to audit the Script Lab will be extended to second round finalists who have not been offered a fellowship and are interested in joining the lab and covering their own expenses. The Auditors will benefit from all the components of the Script Lab, except for one-on-one mentoring. If you are interested in this option, you will be asked to check a box during the Film Freeway application process. If you are selected for the second round but your script is not ready by October 20 or we are not able to offer you a fellowship, you will be considered for an auditing position only if you have expressed your interest in this option. 
 
 
-### Who is a finalist and what is the difference between a finalist and a fellow?
+### Who is a finalist and what is the difference between a finalist and a Fellow?
 
 If your project is selected for the second and final round of evaluation, you are a finalist. You will be notified of this status before October 15 and will be asked to submit the full script to us by October 20. Six of the finalists will be invited to become Fellows and participate in the Script Lab.
