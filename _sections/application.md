@@ -6,7 +6,7 @@ order: 4
 
 Applications will be submitted through [Film Freeway](https://www.filmfreeway.com). You will first submit an initial application; then, should you be selected for the second round of evaluation, we will ask for your full screenplay.
 
-Round one applications should include:
+Round one applications should include the following:
 
 - The first 10 pages of your final script as a PDF file
 
@@ -18,11 +18,11 @@ Round one applications should include:
 
 ## Deadlines
 
-- August 1, 2018 early deadline
+- August 1, 2018, early deadline
 
-- September 1, 2018 regular deadline
+- September 1, 2018, regular deadline
 
-- October 1, 2018 late deadline
+- October 1, 2018, late deadline
 
 - Notifications of finalists – rolling basis before October 15, 2018
 

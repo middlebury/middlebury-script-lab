@@ -20,7 +20,7 @@ The Middlebury Script Lab is looking to mentor and support the next generation o
 January 11&ndash;16, 2019
 
 ### Where
-Idyllic Middlebury,Vermont, home to Middlebury College and historic Bread Loaf campus.
+Idyllic Middlebury, Vermont, home to Middlebury College and the historic Bread Loaf campus
 
 
 <div class="section-action">

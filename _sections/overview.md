@@ -6,7 +6,7 @@ order: 2
 
 ## Bring your story to Vermont
 
-Six emerging screenwriters&mdash;the fellows&mdash;will be invited to spend one week at Middlebury, in the Champlain Valley of Vermont.
+Six emerging screenwriters &mdash; the fellows &mdash; will be invited to spend one week at Middlebury, in the Champlain Valley of Vermont.
 
 The idyllic New England town of Middlebury will welcome screenwriters developing their first or second script. You will live and work in individual, comfortable rooms and find your inspiration in the crisp Vermont outdoors (town shuttles can take you up the mountain for a ski break!).
 
@@ -28,4 +28,4 @@ We are looking for compelling, exciting screenplays that have a completed first 
 
 The screenplay should be written in English, in any genre, and must be the original work of the author (no adaptations). At this time, we are only accepting individual writers &mdash; no teams &mdash; and we encourage submissions from writer-directors. Candidates must be U.S. citizens or permanent residents who are over 18 years of age on January 1, 2019. 
 
-The application process is handled via Film Freeway and we initially ask that you send us the first ten pages of your script accompanied by additional materials (as described in the Film Freeway application). If you are selected as a finalist for the second round of evaluation, we will ask for the full script to be submitted no later than October 20 2019.
+The application process is handled via Film Freeway, and we initially ask that you send us the first 10 pages of your script accompanied by additional materials (as described in the Film Freeway application). If you are selected as a finalist for the second round of evaluation, we will ask for the full script to be submitted no later than October 20, 2018.

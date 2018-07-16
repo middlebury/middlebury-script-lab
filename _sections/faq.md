@@ -13,14 +13,14 @@ image:
 
 ### Am I required to provide proof of citizenship/residency?
 
-No, we will take you at your word  that you satisfy the requirement. We cannot make visa arrangements or offer support if you are not a U.S. citizen or permanent resident.
+No, we will take you at your word that you satisfy the requirement. We cannot make visa arrangements or offer support if you are not a U.S. citizen or permanent resident.
 
 ### Should my industry contacts call you to provide references?
 
 No. We are only considering your writing and your personal statements. No references are necessary, nor would they make a difference.
 
 ### How much do I have to pay?
-Fellows’ only costs will be travel costs to Burlington, VT (or to Middlebury if you are driving)
+Fellows’ only costs will be travel costs to Burlington, Vermont (or to Middlebury if you are driving).
 
 ### What if I don't have access to Final Draft?
 
@@ -74,16 +74,16 @@ Via email, so please make sure you give a current, working email address in the 
 Yes. We are very interested in writers with great potential who for some reason or another have never had a chance to be discovered. We are also interested in writers who practiced in another medium and are now looking to make a transition to screenwriting.
 
 
-### I don't know where to upload my script pages, additional materials or full script on film freeway.
+### I don't know where to upload my script pages, additional materials, or full script on Film Freeway.
 
-The application asks you to enter three additional materials (cover letter, artistic statement, personal statement) as answers to questions in designated rubrics. The first ten pages of your script should be uploaded in the “script” section of your project. The treatment should be uploaded through the “add files” options of your Film Freeway project. If you already have a completed script and you upload it in the “script” section from the beginning, we will read only the first ten pages initially and if you make it to the final round we’ll read the whole script.
+The application asks you to enter three additional documents (cover letter, artistic statement, personal statement) as answers to questions in designated rubrics. The first 10 pages of your script should be uploaded in the “script” section of your project. The treatment should be uploaded through the “add files” options of your Film Freeway project. If you already have a completed script and you upload it in the “script” section from the beginning, we will read only the first 10 pages initially; if you make it to the final round we’ll read the whole script.
 
 
 ### My script is not ready or wasn’t selected for a fellowship this year. Can I still audit the Script Lab?
 
-We are restricted by our budget and logistics to a maximum of six Script Lab fellows.  A great number of applicants asked about the possibility to audit the Lab and offered to cover their own expenses. Therefore, a very limited number of invitations to audit the Script Lab will be extended to second round finalists who have not been offered a fellowship and are interested in joining the lab and covering their own expenses. The Auditors will benefit from all the components of the Script Lab, except for one-on-one mentoring. If you are interested in this option, you will be asked to check a box during the Film Freeway application process. If you are selected for the second round but your script is not ready by October 20 or we are not able to offer you a fellowship, you will be considered for an auditing position only if you have expressed your interest in this option. 
+We are restricted by our budget and logistics to a maximum of six Script Lab fellows. A great number of applicants asked about the possibility of auditing the lab and offered to cover their own expenses. Therefore, a very limited number of invitations to audit the Script Lab will be extended to second round finalists who have not been offered a fellowship and are interested in joining the lab and covering their own expenses. The auditors will benefit from all the components of the Script Lab, except for one-on-one mentoring. If you are interested in this option, you will be asked to check a box during the Film Freeway application process. If you are selected for the second-round but your script is not ready by October 20 or we are not able to offer you a fellowship, you will be considered for an auditing position only if you have expressed your interest in this option. 
 
 
-### Who is a finalist and what is the difference between a finalist and a Fellow?
+### Who is a finalist and what is the difference between a finalist and a fellow?
 
-If your project is selected for the second and final round of evaluation, you are a finalist. You will be notified of this status before October 15 and will be asked to submit the full script to us by October 20. Six of the finalists will be invited to become Fellows and participate in the Script Lab.
+If your project is selected for the second and final round of evaluation, you are a finalist. You will be notified of this status before October 15 and will be asked to submit the full script to us by October 20. Six of the finalists will be invited to become fellows and participate in the Script Lab.
