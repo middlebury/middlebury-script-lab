@@ -28,7 +28,7 @@ You can use other software that provides similar formatting, compatible with the
 
 ### Can teams submit?
 
-No, only individual writers or writer-directors can submit.
+No, only individual writers or writer-directors can submit. However, in the case of TV projects, a writing partner can be included in the Lab activities for a fee that covers room, board and administrative expenses. If you are selected as a TV Fellow and wish to use this opportunity, please let us know upon your acceptance.
 
 ### Are adaptations eligible?
 
@@ -57,11 +57,13 @@ Established industry professionals &mdash; writers, directors, producers &mdash;
 
 ### What kind of activities will happen at the workshop?
 
+
 Activities will fall into three broad categories:
 
-- Group workshops (for fellows)
+- Group workshops (for fellows only)
 - Master classes, Q&A sessions, and talks (open to a larger audience)
 - One-on-one advising specific to each project
+- On the last day, there will be a public reading of screenplay excerpts.
 
 And of course there will be plenty of time to write.
 
@@ -79,11 +81,6 @@ Yes. We are very interested in writers with great potential who for some reason 
 The application asks you to enter three additional documents (cover letter, artistic statement, personal statement) as answers to questions in designated rubrics. The first 10 pages of your script should be uploaded in the “script” section of your project. The treatment should be uploaded through the “add files” options of your Film Freeway project. If you already have a completed script and you upload it in the “script” section from the beginning, we will read only the first 10 pages initially; if you make it to the final round we’ll read the whole script.
 
 
-### My script is not ready or wasn’t selected for a fellowship this year. Can I still audit the Script Lab?
-
-We are restricted by our budget and logistics to a maximum of six Script Lab fellows. A great number of applicants asked about the possibility of auditing the lab and offered to cover their own expenses. Therefore, a very limited number of invitations to audit the Script Lab will be extended to second-round finalists who have not been offered a fellowship and are interested in joining the lab and covering their own expenses. The auditors will benefit from all the components of the Script Lab, except for one-on-one mentoring. If you are interested in this option, you will be asked to check a box during the Film Freeway application process. If you are selected for the second round but your script is not ready by October 20 or we are not able to offer you a fellowship, you will be considered for an auditing position only if you have expressed your interest in this option. 
-
-
 ### Who is a finalist and what is the difference between a finalist and a fellow?
 
-If your project is selected for the second and final round of evaluation, you are a finalist. You will be notified of this status before October 15 and will be asked to submit the full script to us by October 20. Six of the finalists will be invited to become fellows and participate in the Script Lab.
+If your project is selected for the second and final round of evaluation, you are a finalist. You will be notified of this status before October 20 and will be asked to submit the full script to us by November 1st. Six of the finalists will be invited to become fellows and participate in the Script Lab.

@@ -30,6 +30,9 @@ past_people:
 - name: Shawn Ryan
   bio: Creator of hit series _The Shield_, _The Chicago Code_, _Last Resort_, _Timeless_; writer and executive producer (_The Unit_, _Lie to Me_, _S.W.A.T._) 
 
+- name: Hawk Ostby
+  bio: Academy Award nominated screenwriter (_Children of Men_, _Iron Man_, _Cowboys and Aliens_) 
+
 - name: Ben Frahm
   bio: Screenwriter (_The Discreet Pleasures of Rejection_) and script consultant (_How to Train Your Dragon_), assistant professor of screenwriting at Syracuse University. Ben leads the Script Lab’s structure and pitching workshop. 
 
@@ -65,8 +68,7 @@ past_people:
 
 ---
 
-Middlebury College is organizing and sponsoring the Script Lab through the [Ron and Jessica Liebowitz Fund for Innovation](http://www.middlebury.edu/about/fund-innovation), which provides support for experimental and unconventional projects that have the potential to create lasting, positive change and strengthen Middlebury’s educational experience.
-
+The Middlebury Script Lab was initiated through the [Ron and Jessica Liebowitz Fund for Innovation](http://www.middlebury.edu/about/fund-innovation) and it is currently organized and sponsored by Middlebury College through its Envisioning Middlebury initiative. 
 
 Middlebury College, located in Middlebury, Vermont, is a liberal arts college with a tradition of social engagement, entrepreneurship, and innovation. In addition to its undergraduate College, Middlebury is home to a number of other exceptional schools and programs, including the Middlebury Language Schools, the Bread Loaf Writers’ Conferences, and the Bread Loaf School of English.
 
