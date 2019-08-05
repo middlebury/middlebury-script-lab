@@ -11,8 +11,8 @@ layout: default
     {% if section.image %}
       <figure class="section-figure">
         <img
-          src="{{site.baseurl}}img/{{section.image.src}}"
-          srcset="{% for srcset in section.image.srcset %}{{site.baseurl}}img/{{srcset}}{% if forloop.last == false %}, {% endif %} {% endfor %}"
+          src="{{site.baseurl}}/img/{{section.image.src}}"
+          srcset="{% for srcset in section.image.srcset %}{{site.baseurl}}/img/{{srcset}}{% if forloop.last == false %}, {% endif %} {% endfor %}"
           alt="{{section.image.alt}}"
         />
       </figure>
@@ -28,8 +28,8 @@ layout: default
           {% if person.image %}
             <figure class="person-figure section-figure">
               <img
-                src="{{site.baseurl}}img/{{person.image.src}}"
-                srcset="{% for srcset in person.image.srcset %}{{site.baseurl}}img/{{srcset}}{% if forloop.last == false %}, {% endif %}{% endfor %}"
+                src="{{site.baseurl}}/img/{{person.image.src}}"
+                srcset="{% for srcset in person.image.srcset %}{{site.baseurl}}/img/{{srcset}}{% if forloop.last == false %}, {% endif %}{% endfor %}"
                 alt="{{person.name}}"
               />
             </figure>
@@ -57,8 +57,8 @@ layout: default
           {% if person.image %}
             <figure class="person-figure section-figure">
               <img
-                src="{{site.baseurl}}img/{{person.image.src}}"
-                srcset="{% for srcset in person.image.srcset %}{{site.baseurl}}img/{{srcset}}{% if forloop.last == false %}, {% endif %}{% endfor %}"
+                src="{{site.baseurl}}/img/{{person.image.src}}"
+                srcset="{% for srcset in person.image.srcset %}{{site.baseurl}}/img/{{srcset}}{% if forloop.last == false %}, {% endif %}{% endfor %}"
                 alt="{{person.name}}"
               />
             </figure>
