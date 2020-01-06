@@ -19,7 +19,7 @@ layout: default
     {% endif %}
 
     <div class="section-content">
-      {{section.content || markdownify}}
+      {{section.content | markdownify}}
     </div>
 
     {% if section.people %}
