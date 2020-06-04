@@ -1,4 +1,3 @@
-import scrollTo from 'scroll-to';
 import Headroom from 'headroom.js';
 import onscrolling from 'onscrolling';
 
@@ -90,12 +89,15 @@ function handleSectionLinkClick(e) {
 
   const y = target.offsetTop - getHeaderHeight();
 
-  const options = {
-    ease: 'linear',
-    duration: 300
-  };
+  if (!('scrollBehavior' in document.documentElement.style)) {
+    // fallback for ie
+    return window.scrollTo(0, y);
+  }
 
-  scrollTo(0, y, options);
+  window.scrollTo({
+    top: y,
+    behavior: 'smooth'
+  });
 }
 
 function addSectionLinkListeners() {

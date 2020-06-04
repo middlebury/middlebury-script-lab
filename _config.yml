@@ -1,8 +1,8 @@
 title: Middlebury Script Lab
-description: ""
-baseurl: "/script-lab"
+description: ''
+baseurl: '/script-lab'
 
-apply_link: "https://filmfreeway.com/festival/MiddleburyScriptLab"
+apply_link: 'https://filmfreeway.com/festival/MiddleburyScriptLab'
 
 markdown: kramdown
 exclude:
@@ -11,7 +11,8 @@ exclude:
   - gulpfile.js
   - yarn.lock
   - README.md
-  - "*.log"
+  - LICENSE
+  - '*.log'
 
 collections:
-- sections
+  - sections

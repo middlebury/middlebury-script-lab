@@ -2,85 +2,77 @@
 layout: default
 ---
 
-{% assign sections = site.sections | sort: 'order' %}
-{% for section in sections %}
+{% assign sections = site.sections | sort: 'order' %} {% for section in sections
+%}
 
-  <section class="section" id="{{section.slug}}">
-    <h1 class="section-title{% if section.hide_title %} sr-only{% endif %}">{{section.title}}</h1>
+<section class="section" id="{{section.slug}}">
+  <h1 class="section-title{% if section.hide_title %} sr-only{% endif %}">
+    {{section.title}}
+  </h1>
 
-    {% if section.image %}
-      <figure class="section-figure">
-        <img
-          src="{{site.baseurl}}/img/{{section.image.src}}"
-          srcset="{% for srcset in section.image.srcset %}{{site.baseurl}}/img/{{srcset}}{% if forloop.last == false %}, {% endif %} {% endfor %}"
-          alt="{{section.image.alt}}"
-        />
-      </figure>
+  {% if section.image %}
+  <figure class="section-figure">
+    <img
+      src="{{site.baseurl}}/img/{{section.image.src}}"
+      srcset="{% for srcset in section.image.srcset %}{{site.baseurl}}/img/{{srcset}}{% if forloop.last == false %}, {% endif %} {% endfor %}"
+      alt="{{section.image.alt}}"
+    />
+  </figure>
+  {% endif %}
+
+  <div class="section-content">
+    {{section.content | markdownify}}
+  </div>
+
+  {% if section.people %} {% for person in section.people %}
+  <article class="person">
+    {% if person.image %}
+    <figure class="person-figure section-figure">
+      <img
+        src="{{site.baseurl}}/img/{{person.image.src}}"
+        srcset="{% for srcset in person.image.srcset %}{{site.baseurl}}/img/{{srcset}}{% if forloop.last == false %}, {% endif %}{% endfor %}"
+        alt="{{person.name}}"
+      />
+    </figure>
     {% endif %}
 
-    <div class="section-content">
-      {{section.content | markdownify}}
-    </div>
+    <h3 class="person-name">{{person.name}}</h3>
 
-    {% if section.people %}
-      {% for person in section.people %}
-        <article class="person">
-          {% if person.image %}
-            <figure class="person-figure section-figure">
-              <img
-                src="{{site.baseurl}}/img/{{person.image.src}}"
-                srcset="{% for srcset in person.image.srcset %}{{site.baseurl}}/img/{{srcset}}{% if forloop.last == false %}, {% endif %}{% endfor %}"
-                alt="{{person.name}}"
-              />
-            </figure>
-          {% endif %}
+    <p><em>{{person.title}}</em></p>
 
-          <h3 class="person-name">{{person.name}}</h3>
-
-          <p><em>{{person.title}}</em></p>
-
-          {% if person.degree %}
-            <p>{{person.degree}}</p>
-          {% endif %}
-
-          {% if person.bio %}
-            {{person.bio | markdownify}}
-          {% endif %}
-        </article>
-      {% endfor %}
+    {% if person.degree %}
+    <p>{{person.degree}}</p>
+    {% endif %} {% if person.bio %} {{person.bio | markdownify}} {% endif %}
+  </article>
+  {% endfor %} {% endif %} {% if section.past_people %}
+  <h2>Past advisors</h2>
+  {% for person in section.past_people %}
+  <article class="person person--past">
+    {% if person.image %}
+    <figure class="person-figure section-figure">
+      <img
+        src="{{site.baseurl}}/img/{{person.image.src}}"
+        srcset="{% for srcset in person.image.srcset %}{{site.baseurl}}/img/{{srcset}}{% if forloop.last == false %}, {% endif %}{% endfor %}"
+        alt="{{person.name}}"
+      />
+    </figure>
     {% endif %}
 
-    {% if section.past_people %}
-      <h2>Past advisors</h2>
-      {% for person in section.past_people %}
-        <article class="person person--past">
-          {% if person.image %}
-            <figure class="person-figure section-figure">
-              <img
-                src="{{site.baseurl}}/img/{{person.image.src}}"
-                srcset="{% for srcset in person.image.srcset %}{{site.baseurl}}/img/{{srcset}}{% if forloop.last == false %}, {% endif %}{% endfor %}"
-                alt="{{person.name}}"
-              />
-            </figure>
-          {% endif %}
+    <h3 class="person-name">{{person.name}}</h3>
 
-          <h3 class="person-name">{{person.name}}</h3>
-
-          {% if person.title %}
-            <p><em>{{person.title | markdownify | remove: '<p>' | remove: '</p>'}}</em></p>
-          {% endif %}
-
-          {% if person.degree %}
-            <p>{{person.degree}}</p>
-          {% endif %}
-
-          {% if person.bio %}
-            {{person.bio | markdownify}}
-          {% endif %}
-        </article>
-      {% endfor %}
-    {% endif %}
-
-  </section>
+    {% if person.title %}
+    <p>
+      <em
+        >{{person.title | markdownify | remove: '
+        <p>' | remove: '</p>
+        '}}</em
+      >
+    </p>
+    {% endif %} {% if person.degree %}
+    <p>{{person.degree}}</p>
+    {% endif %} {% if person.bio %} {{person.bio | markdownify}} {% endif %}
+  </article>
+  {% endfor %} {% endif %}
+</section>
 
 {% endfor %}
